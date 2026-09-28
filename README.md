@@ -16,3 +16,5 @@ npm run build
 ```
 
 Next: YouCam API, custom design studio, Firebase, cart/checkout, admin catalog.
+
+Deployment configured for GitHub Pages via GitHub Actions.
